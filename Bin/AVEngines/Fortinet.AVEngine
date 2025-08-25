@@ -1,0 +1,11 @@
+[Main]
+Name=Fortinet
+HomePage=https://www.fortiguard.com/
+FPRPage=https://www.fortiguard.com/faq/classificationdispute
+FPREMail=submitvirus@fortinet.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=После отправки должно прийти письмо с адреса submitvirus@fortinet.com с номером кейса.
+

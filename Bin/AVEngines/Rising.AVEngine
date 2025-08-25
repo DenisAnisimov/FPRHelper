@@ -1,0 +1,11 @@
+[Main]
+Name=Rising
+HomePage=http://www.rising-global.com/
+FPRPage=
+FPREMail=fp@rising.com.cn
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=clean
+Comment=
+

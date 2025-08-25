@@ -1,0 +1,11 @@
+[Main]
+Name=Zillya
+HomePage=https://zillya.ua/
+FPRPage=https://support.zillya.ua/ru?302
+FPREMail=support@zillya.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=0
+ZipPassword=infected
+Comment=
+

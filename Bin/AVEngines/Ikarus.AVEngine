@@ -1,0 +1,11 @@
+[Main]
+Name=Ikarus
+HomePage=https://www.ikarussecurity.com/
+FPRPage=
+FPREMail=fp@ikarus.at
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

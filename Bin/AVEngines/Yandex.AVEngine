@@ -1,0 +1,11 @@
+[Main]
+Name=Yandex
+HomePage=https://browser.yandex.ru/
+FPRPage=
+FPREMail=yandex-antivir@support.yandex.ru
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=Первая линия техподдержки отвечает быстро, но может не понимать суть запроса. Поэтому лучше максимально детально описать суть проблемы. Но само устранение ложного срабатывания очень медленное.
+

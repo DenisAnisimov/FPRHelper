@@ -1,0 +1,11 @@
+[Main]
+Name=GData
+HomePage=https://www.gdata.de/
+FPRPage=https://submit.gdatasoftware.com/sample
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

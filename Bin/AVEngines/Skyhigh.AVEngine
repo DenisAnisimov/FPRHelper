@@ -1,0 +1,11 @@
+[Main]
+Name=Skyhigh (SWG)
+HomePage=https://www.skyhighsecurity.com/
+FPRPage=https://success.skyhighsecurity.com/Skyhigh_Secure_Web_Gateway_%28On_Prem%29/Anti-malware_Filtering/How_to_submit_false_positive%2F%2Fnegative_samples_for_review
+FPREMail=gatewayantimalwarefpsubmission@skyhighsecurity.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=На письма не реагируют. Судя по всему, используют движок от Trellix ENS, поэтому, возможно, имеет смысл писать только Trellix ENS.
+

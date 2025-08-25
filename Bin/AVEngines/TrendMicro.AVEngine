@@ -1,0 +1,11 @@
+[Main]
+Name=TrendMicro
+HomePage=https://www.trendmicro.com/
+FPRPage=https://www.trendmicro.com/en_us/about/legal/detection-reevaluation.html
+FPREMail=virus@trendmicro.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=virus
+Comment=
+

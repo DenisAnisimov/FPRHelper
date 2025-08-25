@@ -1,0 +1,11 @@
+[Main]
+Name=K7GW
+HomePage=https://www.k7computing.com
+FPRPage=https://support.k7computing.com/index.php?/ticket/submit-ticket
+FPREMail=reportfp@labs.k7computing.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

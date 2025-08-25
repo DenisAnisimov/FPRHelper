@@ -1,0 +1,11 @@
+[Main]
+Name=CTX (SaintSecurity)
+HomePage=https://malwares.com/
+FPRPage=
+FPREMail=root@malwares.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

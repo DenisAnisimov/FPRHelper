@@ -1,0 +1,11 @@
+[Main]
+Name=McAfee
+HomePage=https://www.mcafee.com/
+FPRPage=https://www.mcafee.com/en-us/consumer-support/dispute-detection-allowlisting.html
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

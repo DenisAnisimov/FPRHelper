@@ -1,0 +1,11 @@
+[Main]
+Name=Bkav Pro
+HomePage=https://www.bkav.com/
+FPRPage=
+FPREMail=fpreport@bkav.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

@@ -1,0 +1,11 @@
+[Main]
+Name=Tencent
+HomePage=https://www.tencent.com/
+FPRPage=
+FPREMail=TAVfp@tencent.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

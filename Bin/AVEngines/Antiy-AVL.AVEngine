@@ -1,0 +1,11 @@
+[Main]
+Name=Antiy-AVL
+HomePage=https://antiy.cn/
+FPRPage=
+FPREMail=avlsdk_support@antiy.cn
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

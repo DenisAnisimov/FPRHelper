@@ -1,0 +1,11 @@
+[Main]
+Name=Alibaba
+HomePage=https://www.alibaba.com/
+FPRPage=
+FPREMail=virustotal@list.alibaba-inc.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=На письма не реагируют.
+

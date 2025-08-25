@@ -1,0 +1,11 @@
+[Main]
+Name=Zoner
+HomePage=https://zonerantivirus.com/
+FPRPage=
+FPREMail=false@zonerantivirus.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

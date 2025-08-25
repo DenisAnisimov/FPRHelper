@@ -1,0 +1,11 @@
+[Main]
+Name=NANO-Antivirus
+HomePage=https://www.nanoav.ru/
+FPRPage=https://www.nanoav.ru/index.php?option=com_content&view=article&id=15&Itemid=83&lang=en
+FPREMail=false@nanoav.ru
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=Есть еще такой контакт https://nano-av.com/contact/
+

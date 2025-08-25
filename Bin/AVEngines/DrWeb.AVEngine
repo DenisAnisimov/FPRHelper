@@ -1,0 +1,11 @@
+[Main]
+Name=DrWeb
+HomePage=https://www.drweb.com/
+FPRPage=https://vms.drweb.com/sendvirus/
+FPREMail=vms@drweb.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

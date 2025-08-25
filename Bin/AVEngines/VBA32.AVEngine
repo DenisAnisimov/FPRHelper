@@ -1,0 +1,11 @@
+[Main]
+Name=VBA32
+HomePage=https://www.anti-virus.by/
+FPRPage=
+FPREMail=feedback@anti-virus.by
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

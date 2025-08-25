@@ -1,0 +1,11 @@
+[Main]
+Name=Kaspersky
+HomePage=https://www.kaspersky.com/
+FPRPage=https://opentip.kaspersky.com/
+FPREMail=newvirus@kaspersky.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

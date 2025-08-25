@@ -1,0 +1,11 @@
+[Main]
+Name=SentinelOne
+HomePage=https://www.sentinelone.com/
+FPRPage=
+FPREMail=report@sentinelone.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

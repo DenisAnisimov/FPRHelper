@@ -1,0 +1,11 @@
+[Main]
+Name=TACHYON
+HomePage=https://inca.co.kr/en/index.html
+FPRPage=
+FPREMail=virus_info@inca.co.kr
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=Отправлять в запароленном архиве zip, который включает в себя название детекта.
+

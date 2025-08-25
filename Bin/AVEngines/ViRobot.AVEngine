@@ -1,0 +1,11 @@
+[Main]
+Name=ViRobot
+HomePage=https://hauri.co.kr/
+FPRPage=
+FPREMail=viruslab@hauri.co.kr
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

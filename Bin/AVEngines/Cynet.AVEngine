@@ -1,0 +1,11 @@
+[Main]
+Name=Cynet
+HomePage=https://www.cynet.com/
+FPRPage=
+FPREMail=soc@cynet.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=После отправки письма должен прийти ответ с адреса donotreply@cynet.com с номером кейса
+

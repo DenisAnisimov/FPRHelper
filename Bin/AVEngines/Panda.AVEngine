@@ -1,0 +1,11 @@
+[Main]
+Name=Panda
+HomePage=https://www.pandasecurity.com/
+FPRPage=https://www.pandasecurity.com/en/support/contact/?ts=1
+FPREMail=falsepositives@pandasecurity.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

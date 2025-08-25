@@ -1,0 +1,11 @@
+[Main]
+Name=AhnLab-V3
+HomePage=https://www.ahnlab.com/
+FPRPage=
+FPREMail=v3sos@ahnlab.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

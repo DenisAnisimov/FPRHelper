@@ -1,0 +1,11 @@
+[Main]
+Name=ClamAV
+HomePage=https://www.clamav.net/
+FPRPage=https://www.clamav.net/reports/fp
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

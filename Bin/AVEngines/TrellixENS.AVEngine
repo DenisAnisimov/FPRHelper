@@ -1,0 +1,11 @@
+[Main]
+Name=Trellix ENS
+HomePage=https://www.trellix.com/
+FPRPage=
+FPREMail=datasubmission@trellix.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

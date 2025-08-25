@@ -1,0 +1,11 @@
+[Main]
+Name=CrowdStrike Falcon
+HomePage=https://www.crowdstrike.com/
+FPRPage=
+FPREMail=VTscanner@crowdstrike.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=Помимо ссылки на отчет VirusTotal нужно загрузить файл на https://hybrid-analysis.com/ В письме указать дополнительно SHA256.
+

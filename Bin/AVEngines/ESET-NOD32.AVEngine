@@ -1,0 +1,11 @@
+[Main]
+Name=ESET-NOD32
+HomePage=https://www.eset.com/
+FPRPage=
+FPREMail=samples@eset.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

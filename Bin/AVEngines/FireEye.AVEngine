@@ -1,0 +1,11 @@
+[Main]
+Name=FireEye
+HomePage=
+FPRPage=
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

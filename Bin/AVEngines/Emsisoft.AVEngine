@@ -1,0 +1,11 @@
+[Main]
+Name=Emsisoft
+HomePage=https://www.emsisoft.com/
+FPRPage=https://www.emsisoft.com/en/help/contact/
+FPREMail=fp@emsisoft.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

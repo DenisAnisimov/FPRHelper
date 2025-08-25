@@ -1,0 +1,11 @@
+[Main]
+Name=BitDefender
+HomePage=https://www.bitdefender.com/
+FPRPage=https://www.bitdefender.com/consumer/support/answer/29358/
+FPREMail=virus_submission@bitdefender.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

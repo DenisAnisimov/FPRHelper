@@ -1,0 +1,11 @@
+[Main]
+Name=ZoneAlarm
+HomePage=https://www.checkpoint.com/
+FPRPage=
+FPREMail=zonealarm_VT_reports@checkpoint.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

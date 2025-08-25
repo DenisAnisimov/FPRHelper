@@ -1,0 +1,11 @@
+[Main]
+Name=CMC
+HomePage=https://cmccybersecurity.com/
+FPRPage=https://cmccybersecurity.com/tao-ticket-ho-tro/
+FPREMail=PSIRT@cmccybersecurity.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

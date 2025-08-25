@@ -1,0 +1,11 @@
+[Main]
+Name=Palo Alto Networks
+HomePage=https://www.paloaltonetworks.com/
+FPRPage=https://live.paloaltonetworks.com/t5/virustotal/bd-p/VirusTotal_Discussions
+FPREMail=vt-pan-false-positive@paloaltonetworks.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

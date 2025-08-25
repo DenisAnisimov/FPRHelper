@@ -1,0 +1,11 @@
+[Main]
+Name=Sophos
+HomePage=https://www.sophos.com/
+FPRPage=https://support.sophos.com/support/s/filesubmission?language=en_US
+FPREMail=samples@sophos.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

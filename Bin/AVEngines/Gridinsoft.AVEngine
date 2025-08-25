@@ -1,0 +1,11 @@
+[Main]
+Name=Gridinsoft
+HomePage=https://gridinsoft.com/
+FPRPage=https://gridinsoft.com/blogs/how-to-report-the-false-detection/
+FPREMail=virus@gridinsoft.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=Лучше создавать тикет через WEB страницу. В тикете указать ссылку на отчет virustotal. После создания должно прийти письмо с адреса support@gridinsoft.com с номером кейса и ссылкой.
+

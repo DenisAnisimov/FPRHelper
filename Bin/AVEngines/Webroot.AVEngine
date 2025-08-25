@@ -1,0 +1,11 @@
+[Main]
+Name=Webroot
+HomePage=https://www.webroot.com
+FPRPage=https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us
+FPREMail=
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

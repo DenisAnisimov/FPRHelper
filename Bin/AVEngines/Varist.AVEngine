@@ -1,0 +1,11 @@
+[Main]
+Name=Varist
+HomePage=https://www.varist.com/
+FPRPage=
+FPREMail=support@varist.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

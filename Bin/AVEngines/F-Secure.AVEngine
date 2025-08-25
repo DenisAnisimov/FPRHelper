@@ -1,0 +1,11 @@
+[Main]
+Name=WithSecure
+HomePage=https://www.withsecure.com/
+FPRPage=https://www.withsecure.com/en/support/contact-support/submit-a-sample
+FPREMail=vsamples@f-secure.com
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

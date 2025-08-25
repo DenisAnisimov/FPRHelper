@@ -1,0 +1,11 @@
+[Main]
+Name=Elastic
+HomePage=https://www.elastic.co
+FPRPage=https://forms.gle/oe9fPHUv7mFW4XAa8
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

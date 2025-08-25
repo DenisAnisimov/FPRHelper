@@ -1,0 +1,11 @@
+[Main]
+Name=DeepInstinct
+HomePage=https://www.deepinstinct.com/
+FPRPage=
+FPREMail=vt-fps-requests@deepinstinct.com
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=На письма не реагируют.
+

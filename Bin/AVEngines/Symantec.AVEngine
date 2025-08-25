@@ -1,0 +1,11 @@
+[Main]
+Name=Symantec
+HomePage=https://www.broadcom.com/products/cybersecurity
+FPRPage=https://symsubmit.symantec.com/
+FPREMail=
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=После отправки должно прийти письмо с адреса svc.watchdog@broadcom.com с номером кейса.
+

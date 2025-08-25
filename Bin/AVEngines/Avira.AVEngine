@@ -1,0 +1,11 @@
+[Main]
+Name=Avira
+HomePage=https://www.avira.com/
+FPRPage=https://www.avira.com/en/analysis/submit/
+FPREMail=
+IncludeExe=1
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+

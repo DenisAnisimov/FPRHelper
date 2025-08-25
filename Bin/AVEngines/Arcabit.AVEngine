@@ -1,0 +1,11 @@
+[Main]
+Name=Arcabit
+HomePage=https://arcabit.pl/
+FPRPage=
+FPREMail=vt.fp@arcabit.pl
+IncludeExe=0
+IncludeAsZip=1
+IncludeAsEncryptedZip=1
+ZipPassword=infected
+Comment=
+
