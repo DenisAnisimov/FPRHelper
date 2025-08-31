@@ -1,4 +1,4 @@
-[Main]
+п»ї[Main]
 Name=TACHYON
 HomePage=https://inca.co.kr/en/index.html
 FPRPage=
@@ -7,5 +7,5 @@ IncludeExe=1
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=Отправлять в запароленном архиве zip, который включает в себя название детекта.
+Comment=РћС‚РїСЂР°РІР»СЏС‚СЊ РІ Р·Р°РїР°СЂРѕР»РµРЅРЅРѕРј Р°СЂС…РёРІРµ zip, РєРѕС‚РѕСЂС‹Р№ РІРєР»СЋС‡Р°РµС‚ РІ СЃРµР±СЏ РЅР°Р·РІР°РЅРёРµ РґРµС‚РµРєС‚Р°.
 

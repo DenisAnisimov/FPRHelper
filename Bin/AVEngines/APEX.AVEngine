@@ -1,4 +1,4 @@
-[Main]
+п»ї[Main]
 Name=SecureAge
 HomePage=https://www.secureage.com/
 FPRPage=https://www.secureage.com/support/report-false-positive
@@ -7,5 +7,5 @@ IncludeExe=0
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=Если им не нравится что-то в файле, то предлагают отправить дополнительную информацию на адрес secureaplus@secureage.com. При этом их почтовый сервер не принимает письма: "Your message to the Microsoft 365 group secureaplus@secureage.com couldn't be delivered. The group secureaplus isn't set up to receive messages from myname@myserver.com". Дибилы, блять.
+Comment=Р•СЃР»Рё РёРј РЅРµ РЅСЂР°РІРёС‚СЃСЏ С‡С‚Рѕ-С‚Рѕ РІ С„Р°Р№Р»Рµ, С‚Рѕ РїСЂРµРґР»Р°РіР°СЋС‚ РѕС‚РїСЂР°РІРёС‚СЊ РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅСѓСЋ РёРЅС„РѕСЂРјР°С†РёСЋ РЅР° Р°РґСЂРµСЃ secureaplus@secureage.com. РџСЂРё СЌС‚РѕРј РёС… РїРѕС‡С‚РѕРІС‹Р№ СЃРµСЂРІРµСЂ РЅРµ РїСЂРёРЅРёРјР°РµС‚ РїРёСЃСЊРјР°: "Your message to the Microsoft 365 group secureaplus@secureage.com couldn't be delivered. The group secureaplus isn't set up to receive messages from myname@myserver.com". Р”РёР±РёР»С‹, Р±Р»СЏС‚СЊ.
 

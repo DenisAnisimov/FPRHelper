@@ -1,4 +1,4 @@
-[Main]
+п»ї[Main]
 Name=Gridinsoft
 HomePage=https://gridinsoft.com/
 FPRPage=https://gridinsoft.com/blogs/how-to-report-the-false-detection/
@@ -7,5 +7,5 @@ IncludeExe=0
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=Лучше создавать тикет через WEB страницу. В тикете указать ссылку на отчет virustotal. После создания должно прийти письмо с адреса support@gridinsoft.com с номером кейса и ссылкой.
+Comment=Р›СѓС‡С€Рµ СЃРѕР·РґР°РІР°С‚СЊ С‚РёРєРµС‚ С‡РµСЂРµР· WEB СЃС‚СЂР°РЅРёС†Сѓ. Р’ С‚РёРєРµС‚Рµ СѓРєР°Р·Р°С‚СЊ СЃСЃС‹Р»РєСѓ РЅР° РѕС‚С‡РµС‚ virustotal. РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ РґРѕР»Р¶РЅРѕ РїСЂРёР№С‚Рё РїРёСЃСЊРјРѕ СЃ Р°РґСЂРµСЃР° support@gridinsoft.com СЃ РЅРѕРјРµСЂРѕРј РєРµР№СЃР° Рё СЃСЃС‹Р»РєРѕР№.
 

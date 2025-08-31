@@ -1,11 +1,11 @@
-[Main]
+﻿[Main]
 Name=Webroot
 HomePage=https://www.webroot.com
 FPRPage=https://www.webroot.com/us/en/business/support/vendor-dispute-contact-us
 FPREMail=
-IncludeExe=1
+IncludeExe=0
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=
+Comment=После отправки сообщения придет письмо со ссылкой http://www.webrootanywhere.com/support и логином/паролем.
 

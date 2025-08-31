@@ -1,4 +1,4 @@
-[Main]
+п»ї[Main]
 Name=K7AntiVirus
 HomePage=https://www.k7computing.com
 FPRPage=https://support.k7computing.com/index.php?/ticket/submit-ticket
@@ -7,5 +7,5 @@ IncludeExe=0
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=После создания сообщения должен прийти ответ с адреса Support support@k7computing.com с номером кейса
+Comment=РџРѕСЃР»Рµ СЃРѕР·РґР°РЅРёСЏ СЃРѕРѕР±С‰РµРЅРёСЏ РґРѕР»Р¶РµРЅ РїСЂРёР№С‚Рё РѕС‚РІРµС‚ СЃ Р°РґСЂРµСЃР° Support support@k7computing.com СЃ РЅРѕРјРµСЂРѕРј РєРµР№СЃР°
 

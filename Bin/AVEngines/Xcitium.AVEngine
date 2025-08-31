@@ -1,4 +1,4 @@
-[Main]
+п»ї[Main]
 Name=Xcitium (Comodo)
 HomePage=https://www.xcitium.com/
 FPRPage=https://www.comodo.com/home/internet-security/submit.php
@@ -7,5 +7,5 @@ IncludeExe=0
 IncludeAsZip=1
 IncludeAsEncryptedZip=1
 ZipPassword=infected
-Comment=Есть еще https://forum.xcitium.com/
+Comment=Р•СЃС‚СЊ РµС‰Рµ https://forum.xcitium.com/
 
